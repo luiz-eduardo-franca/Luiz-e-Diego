@@ -28,3 +28,35 @@
 .escola-div-conteudo{
     width: 35%;
 }
+.escola-texto-um{
+    text-align: center;
+    font-size: 22px;
+}
+.escola-titulo{
+    text-align: center;
+    font-size: 28px;
+}
+.escola-texto-dois{
+    text-align: center;
+    font-size: 22px;
+
+}
+.escola-texto-tres{
+    text-align: center;
+    font-size: 22px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.imagem-funcionario{
+    width: 14%;
+}
+.imagem-zap{
+    width: 40px;
+}
+.imagem-graos{
+    width: 40px;
+}
+.imagem-boca{
+    width: 40px;
+}
